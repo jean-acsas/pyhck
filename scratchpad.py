@@ -1,7 +1,5 @@
-print("foo")
-
 def main():
-    print("bar.")
+    print("Change me!")
 
 
 if __name__ == '__main__':
