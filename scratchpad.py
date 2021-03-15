@@ -1,5 +1,7 @@
+print("foo")
+
 def main():
-    print("hello from the scratch pad.")
+    print("bar.")
 
 
 if __name__ == '__main__':
