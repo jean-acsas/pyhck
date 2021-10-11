@@ -10,7 +10,7 @@ Assumes that pip3 and pluma and are installed. Feel free to adjust pyhck.sh if y
 pip3 install hotreload
 ```
 
-## Clone this Repo run
+## Clone this repo run
 
 ```bash
 ./pyhck.sh
